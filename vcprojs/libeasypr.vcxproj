@@ -69,7 +69,8 @@
     <OutDir>$(SolutionDir)_build\</OutDir>
     <IntDir>$(SolutionDir)_build\libeasypr\debug\</IntDir>
     <TargetExt>.lib</TargetExt>
-    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <IncludePath>D:\opencv\opencv\build\include\opencv2;D:\opencv\opencv\build\include\opencv;D:\opencv\opencv\build\include;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
+    <LibraryPath>D:\opencv\opencv\build\x64\vc12\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <TargetExt>.lib</TargetExt>

@@ -3,7 +3,7 @@
 #include "easypr/core/chars_identify.h"
 #include "easypr/config.h"
 #include "easypr/core/params.h"
-#include "thirdparty/mser/mser2.hpp"
+#include "../thirdparty/mser/mser2.hpp"
 #include <ctime>
 
 namespace easypr {

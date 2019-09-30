@@ -3,7 +3,7 @@
 #include "easypr/core/core_func.h"
 #include "easypr/core/params.h"
 #include "easypr/config.h"
-#include "thirdparty/mser/mser2.hpp"
+#include "../thirdparty/mser/mser2.hpp"
 
 namespace easypr {
 

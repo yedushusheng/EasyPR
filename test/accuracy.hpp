@@ -10,7 +10,7 @@
 #include <unordered_map>
 #include "easypr/core/core_func.h"
 #include "easypr/util/util.h"
-#include "thirdparty/xmlParser/xmlParser.h"
+#include "../thirdparty/xmlParser/xmlParser.h"
 #include "easypr/core/params.h"
 #include "config.hpp"
 #include "result.hpp"
